@@ -1,0 +1,12 @@
+{
+	"c2array":true,
+	"size":[2,2,1],
+	"data":[
+	
+	[
+		["play"],[0]
+	],
+	[
+		["updatemove"],[1] 
+	]]
+}
