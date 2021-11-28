@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<nosupp>Oops!\n\nLooks like your browser doesn't support Multiplayer Connection.\n\nI hope you're not so disappointed.\n\nSorry for problems :(\n\nBut here's blocks that you can have fun with:</nosupp>
+	<nosuppmob>Oops!\n\nUnfortunely, this game doesn't support mobile devices.\n\nI hope you're not so disappointed.\n\nSorry for problems :(\n\nBut here's blocks that you can have fun with:</nosuppmob>
+	<nosupp2>Oh, now that's a combo!\n\nNot only your browser doesn't support Multiplayer Connection, but you're also on a mobile device (this game doesn't support them)!\n\nAs long, as you're not proud of yourself, I hope you're not so disappointed.\n\nSorry for double problems :( :(\n\nBut here's blocks that you can have fun with (doubled up amount, just for you)</nosupp2>
+	<what>You shouldn't be here!\n\nRun away!</what>
+
+	<lf>Loading files...</lf>
+	<menu>
+		<rpg>RECENTLY PLAYED GAMES</rpg>
+		<typeuser>(type your username: 3-16 characters; only capital letters and numbers)</typeuser>
+		<typecode>(type 4-letter code with your friend)</typecode>
+		<howtoplay>HOW TO PLAY?\n\nOh no! Trash has appeared in a sea! But don't worry - you and someone else are on your way to clean this poor this water tank! Jump into your boats and take out as much trash as you can!\n\nUse WASD to control your boat. Swim through sea and collect trash spreaded all around. You can only take 10 trash on your boat and every trash slows down your boat. Once you get trash you must return to your base to deploy it.\n\nWatch out! Your opponent has the exact same rules, so don't lay back! Whoever take out the most amount of trash, before time runs out - wins!\n\nPlay with a random player or invite a friend to take care of sea together!</howtoplay>
+		
+		<gc>
+			<title>GAME CREATORS</title>
+			<bit>Bitowsky</bit>
+			<bitd>- Main Code\n- Music</bitd>
+			<oce>Ocelothe</oce>
+			<oced>- Art\n-Testing\n-Translations\n-Additional Ideas for Game</oced>
+		</gc>
+	</menu>
+	
+	<con>
+		<conn>Connecting...</conn>
+		<nick>Nickname: </nick>
+		<look>Looking for opponent...</look>
+		<found>Found an opponent: {0}\nStarting in a while...</found>
+		<nickcode>Nickname: {0}\nFriend code: {1}</nickcode>
+		<enter>Entering room...</enter>
+		<wait>Waiting for friend...</wait>
+		<oops>Looks like this room is already full :(\nGoing back...</oops>
+		<ffound>Friend has joined: {0}\nStarting in a while...</ffound>
+		<fwait>Friend has joined: {0}\nStarting in a while...</fwait>
+	</con>
+	
+	<play>
+		<trash>Trash: </trash>
+		<timer>Time: </timer>
+		<go>GO!</go>
+		<finish>FINISH!</finish>
+	</play>
+	
+	<res>
+		<mainmenu>Main Menu</mainmenu>
+		<wait>Please Wait...</wait>
+	</res>
+	
+	<err>
+		<unk>Error from Multiplayer!\n'{0}'\n\nIf this problem will still appear, contact with Game Developers.</unk>
+		<disc>Your opponent (or your friend) has been disconnected.</disc>
+	</err>
+</text>
